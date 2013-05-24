@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/backgroundImages">
+        <file>resources/backgroundImages/deep_red_hexagon_tile_background_seamless.jpg</file>
+        <file>resources/backgroundImages/cool-backgrounds.jpg</file>
+    </qresource>
+</RCC>
